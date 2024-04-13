@@ -14,16 +14,16 @@ We have five different files:
 #### Understanding relationship and new insights from the data
 1. How many times was each product ordered?
     
-2. Find the numbers of orders per department and visualize using an appropriate plot.
+2. The numbers of orders per department and visualize using an appropriate plot.
 
 3. On which day of the week do customers tend to buy more groceries? Which are the peak hours of shopping?
 
-    * Find the frequency of orders on week days  using an appropriate plot
-    * Find the frwquency of orders during hours of the day using and appropriate plot?
+    * The frequency of orders on week days  using an appropriate plot
+    * The frwquency of orders during hours of the day using and appropriate plot?
     
-4. Find the ratio of Re-ordered and Not Re-ordered products and visualize it
+4. The ratio of Re-ordered and Not Re-ordered products and visualize it
  
-5. Plot the heatmap of Re-order ratio of the Day of week vs Hour of day
+5. The heatmap of Re-order ratio of the Day of week vs Hour of day
 
 
  
